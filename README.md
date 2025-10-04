@@ -25,7 +25,7 @@ AWS Certified Solutions Architect Associate with CCNP Enterprise networking expe
 **Academic Background:**
 
 - MSc Applied Security (London Metropolitan University)
-- BScIT Computer Networking (London Metropolitan University)
+- BScIT Computer Networking and IT Security (London Metropolitan University)
 
 ---
 
