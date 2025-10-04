@@ -1,6 +1,6 @@
 # Hi, I'm Sabin Rana
 
-**AWS Solutions Architect Associate | CCNP Enterprise Core | MSc Applied Security**
+**AWS Solutions Architect Associate | CCNP Enterprise Core | MScIT Applied Security**
 
 Building AWS cloud infrastructure with strong networking and security foundation
 
