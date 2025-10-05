@@ -4,7 +4,7 @@
 
 Building AWS cloud infrastructure with strong networking and security foundation
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Website-4285F4?style=flat)](https://sabin-rana.github.io/sabinrana.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Website-4285F4?style=flat)]([https://sabin-rana.github.io/sabinrana.github.io/](https://sabin-rana.github.io/sabinrana-portfolio/))
 [![Email](https://img.shields.io/badge/Email_Me-contactsabinrana@gmail.com-D14836?style=flat)](mailto:contactsabinrana@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sabin-rana-377729153/)
 
