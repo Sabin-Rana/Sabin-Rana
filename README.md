@@ -34,7 +34,7 @@ The implementation includes reusable Terraform modules, remote state management,
 ## Foundational AWS Projects (Pre-Terraform)
 
 Before adopting Infrastructure as Code, I deployed multiple production-grade AWS architectures manually through the console.  
-These projects provided a deep understanding of AWS service dependencies, security patterns, and design principles — forming the foundation for my Terraform automation journey.
+These projects provided a deep understanding of AWS service dependencies, security patterns, and design principles forming the foundation for my Terraform automation journey.
 
 ### Enterprise 3-Tier Architecture
 [View Repository](https://github.com/Sabin-Rana/aws-3tier-architecture)  
@@ -55,10 +55,10 @@ Enterprise network design featuring public/private subnet isolation, NAT Gateway
 
 ## About Me
 
-AWS Certified Solutions Architect Associate with CCNP Enterprise networking expertise and a Master’s degree in Applied Security.  
+AWS Certified Solutions Architect Associate with CCNP ENCOR networking expertise and a Master’s degree in Applied Security.  
 Passionate about designing secure, automated, and scalable cloud solutions using AWS and Terraform.  
 
-My professional journey bridges enterprise networking and modern cloud architecture — enabling me to deliver well-structured, reliable, and efficient infrastructure solutions.
+My professional journey bridges enterprise networking and modern cloud architecture  enabling me to deliver well-structured, reliable, and efficient infrastructure solutions.
 
 ---
 
