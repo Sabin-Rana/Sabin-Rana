@@ -79,8 +79,8 @@ Documenting my transition from manual AWS deployments to automated infrastructur
 ## Certifications & Education
 
 **Professional Certifications**
-- AWS Certified Solutions Architect – Associate (2025)
-- CCNP Enterprise Core (Cisco Certified)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/080be029-2747-438f-82cc-5f403008e2fa) (2025)
+- [CCNP Enterprise Core (ENCOR)](https://www.credly.com/badges/53ed66cb-6195-44cb-b101-768afd501330) (Cisco Certified)
 
 **Academic Background**
 - MScIT Applied Security – London Metropolitan University  
