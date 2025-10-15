@@ -62,6 +62,20 @@ My professional journey bridges enterprise networking and modern cloud architect
 
 ---
 
+---
+
+## Recent Blog Posts
+
+### [From Networking to Cloud: The Best Career Pivot I Almost Didn't Make](https://sabin-codeops.hashnode.dev/from-networking-to-cloud-the-best-career-pivot-i-almost-didnt-make)
+My journey from CCNP to AWS Solutions Architect – how my networking background became my secret weapon in cloud computing. A story about taking scary career leaps and discovering that your existing skills are more powerful than you think.
+
+### [Starting My Terraform Journey: From AWS Console to Infrastructure as Code](https://sabin-codeops.hashnode.dev/starting-my-terraform-journey-from-aws-console-to-infrastructure-as-code)
+Documenting my transition from manual AWS deployments to automated infrastructure. Why I chose Terraform, the challenges I faced, and what I learned building production-ready IaC from scratch.
+
+[➡️ Read all posts on Hashnode](https://sabin-codeops.hashnode.dev/)
+
+---
+
 ## Certifications & Education
 
 **Professional Certifications**
