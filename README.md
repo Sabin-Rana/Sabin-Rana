@@ -11,6 +11,29 @@ Building AWS cloud infrastructure with strong networking and security foundation
 
 ---
 
+## 🏆 Featured Project: Enterprise AWS 3-Tier Architecture
+
+**Complete 57-resource AWS infrastructure with zero-cost validation**
+
+[![GitHub](https://img.shields.io/badge/🔗_View_Repository-181717?style=flat&logo=github)](https://github.com/Sabin-Rana/enterprise-aws-3tier-architecture)
+[![Blog](https://img.shields.io/badge/📖_Read_the_Journey-2962FF?style=flat)](https://sabin-codeops.hashnode.dev/from-10-scare-to-zero-cost-mastery-my-aws-3-tier-architecture-journey)
+
+A complete enterprise-grade AWS infrastructure designed and validated through Terraform, demonstrating professional DevOps practices with absolute cost control. This project represents my evolution from manual deployments to automated infrastructure as code.
+
+### Key Achievements:
+- **57 AWS Resources** validated across 6 Terraform modules
+- **Zero-Cost Validation** - Complete infrastructure testing without deployment
+- **Safety-First Approach** - 7 automation scripts for cost management
+- **Production-Ready** - Full CI/CD, monitoring, and security
+- **Multi-AZ Architecture** - High availability with comprehensive monitoring
+
+### Technologies:
+- **Infrastructure**: Terraform, AWS (VPC, ALB, RDS, EC2, CloudWatch)
+- **Applications**: Node.js, React, PostgreSQL, Docker
+- **DevOps**: GitHub Actions, CI/CD, Security Scanning
+
+---
+
 ## Terraform Infrastructure Automation Journey
 
 Completed a 10-day structured Terraform learning journey, automating end-to-end AWS infrastructure through Infrastructure as Code.  
@@ -19,15 +42,6 @@ This project represents my transition from manual AWS console deployments to ful
 The implementation includes reusable Terraform modules, remote state management, CI/CD patterns, and security automation  demonstrating real-world scalability and reliability.  
 
 **Repository:** [AWS Infrastructure Automation with Terraform](https://github.com/Sabin-Rana/terraform-learning-journey)
-
----
-
-## Ongoing Projects
-
-- **Enterprise AWS 3-Tier Architecture (Terraform Version)** – *In Progress*  
-  Automating enterprise-grade three-tier architecture using Terraform modules, RDS PostgreSQL, and GitHub Actions for CI/CD integration.  
-  This project builds on my manual 3-tier implementation and focuses on modular design, cost optimization, and infrastructure automation.  
-  [View Repository](https://github.com/Sabin-Rana/enterprise-aws-3tier-architecture)
 
 ---
 
@@ -60,11 +74,13 @@ Passionate about designing secure, automated, and scalable cloud solutions using
 
 My professional journey bridges enterprise networking and modern cloud architecture  enabling me to deliver well-structured, reliable, and efficient infrastructure solutions.
 
----
 
 ---
 
 ## Recent Blog Posts
+
+### [From $10 Scare to Zero-Cost Mastery: My AWS 3-Tier Architecture Journey](https://sabin-codeops.hashnode.dev/from-10-scare-to-zero-cost-mastery-my-aws-3-tier-architecture-journey)
+How I went from 115 manual AWS console steps to a zero-cost, fully automated Terraform architecture. The story behind building 57 AWS resources with complete validation and zero deployment costs.
 
 ### [From Networking to Cloud: The Best Career Pivot I Almost Didn't Make](https://sabin-codeops.hashnode.dev/from-networking-to-cloud-the-best-career-pivot-i-almost-didnt-make)
 My journey from CCNP to AWS Solutions Architect – how my networking background became my secret weapon in cloud computing. A story about taking scary career leaps and discovering that your existing skills are more powerful than you think.
