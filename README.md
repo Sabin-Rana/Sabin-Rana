@@ -32,6 +32,22 @@ A complete enterprise-grade AWS infrastructure designed and validated through Te
 - **Applications**: Node.js, React, PostgreSQL, Docker
 - **DevOps**: GitHub Actions, CI/CD, Security Scanning
 
+##  Currently Building: Enterprise AWS Serverless IaC Platform
+
+**Advanced serverless architecture with AWS Config compliance & zero-cost validation**
+
+[![GitHub](https://img.shields.io/badge/🔗_View_Repository-181717?style=flat&logo=github)](https://github.com/Sabin-Rana/aws-serverless-iac-platform)
+[![Status](https://img.shields.io/badge/📊_Status-Ongoing_Development-orange?style=flat)](https://github.com/Sabin-Rana/aws-serverless-iac-platform)
+
+Building on my 3-tier architecture expertise, this project demonstrates modern serverless patterns with enhanced compliance monitoring. Following the same rigorous zero-cost validation methodology to ensure financial responsibility while mastering enterprise serverless architecture.
+
+### Technical Focus:
+- **Serverless Architecture**: Lambda, API Gateway, DynamoDB, Cognito, CloudFront
+- **Infrastructure as Code**: Terraform modules for 35+ AWS resources
+- **Compliance & Security**: AWS Config rules design, drift detection patterns
+- **Zero-Cost Validation**: Local testing with SAM CLI, Terraform planning only
+- **Enterprise Patterns**: Multi-tenant design, authentication, monitoring
+
 ---
 
 ## Terraform Infrastructure Automation Journey
