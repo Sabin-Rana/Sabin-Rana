@@ -18,19 +18,19 @@ Building AWS cloud infrastructure with strong networking and security foundation
 [![GitHub](https://img.shields.io/badge/🔗_View_Repository-181717?style=flat&logo=github)](https://github.com/Sabin-Rana/enterprise-aws-3tier-architecture)
 [![Blog](https://img.shields.io/badge/📖_Read_the_Journey-2962FF?style=flat)](https://sabin-codeops.hashnode.dev/from-10-scare-to-zero-cost-mastery-my-aws-3-tier-architecture-journey)
 
-A complete enterprise-grade AWS infrastructure designed and validated through Terraform, demonstrating professional DevOps practices with absolute cost control. This project represents my evolution from manual deployments to automated infrastructure as code.
+Enterprise AWS 3-tier infrastructure designed and validated through Terraform, demonstrating professional DevOps practices with strategic cost governance. This project showcases my progression from manual cloud operations to automated infrastructure-as-code excellence.
 
-### Key Achievements:
-- **57 AWS Resources** validated across 6 Terraform modules
-- **Zero-Cost Validation** - Complete infrastructure testing without deployment
-- **Safety-First Approach** - 7 automation scripts for cost management
-- **Production-Ready** - Full CI/CD, monitoring, and security
-- **Multi-AZ Architecture** - High availability with comprehensive monitoring
+**Key Highlights:**
+• 57 AWS Resources architected across 6 Terraform modules
+• Zero-Cost Validation - Comprehensive testing without deployment expenses
+• Safety-First Framework - 7 automation scripts for cost control & emergency protocols
+• Enterprise Architecture Pattern - Complete CI/CD, monitoring, and security implementation
+• Multi-AZ High Availability - Enterprise resilience with full observability
 
-### Technologies:
-- **Infrastructure**: Terraform, AWS (VPC, ALB, RDS, EC2, CloudWatch)
-- **Applications**: Node.js, React, PostgreSQL, Docker
-- **DevOps**: GitHub Actions, CI/CD, Security Scanning
+**Technical Stack:**
+**Infrastructure:** Terraform, AWS (VPC, ALB, RDS, EC2, CloudWatch)
+**Applications:** Node.js, React, PostgreSQL, Docker
+**DevOps:** GitHub Actions, CI/CD Pipelines, Security Scanning
 
 ## 🚧 Currently Building: Enterprise AWS Serverless IaC Platform
 
