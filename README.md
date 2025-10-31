@@ -20,12 +20,12 @@ Building AWS cloud infrastructure with strong networking and security foundation
 
 Enterprise AWS 3-tier infrastructure designed and validated through Terraform, demonstrating professional DevOps practices with strategic cost governance. This project showcases my progression from manual cloud operations to automated infrastructure-as-code excellence.
 
-**Key Highlights:**
-• 57 AWS Resources architected across 6 Terraform modules
-• Zero-Cost Validation - Comprehensive testing without deployment expenses
-• Safety-First Framework - 7 automation scripts for cost control & emergency protocols
-• Enterprise Architecture Pattern - Complete CI/CD, monitoring, and security implementation
-• Multi-AZ High Availability - Enterprise resilience with full observability
+### Technical Focus:
+- **Enterprise Architecture**: 57 AWS resources across 6 Terraform modules
+- **Zero-Cost Validation**: Comprehensive testing without deployment expenses  
+- **Safety-First Framework**: 7 automation scripts for cost control & emergency protocols
+- **Multi-AZ High Availability**: Enterprise resilience with full observability
+- **Infrastructure as Code**: Complete CI/CD, monitoring, and security implementation
 
 **Technical Stack:**
 **Infrastructure:** Terraform, AWS (VPC, ALB, RDS, EC2, CloudWatch)
