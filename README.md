@@ -12,18 +12,17 @@ Building AWS cloud infrastructure with strong networking and security foundation
 ---
 
 ## Featured Project: Enterprise AWS 3-Tier Architecture
-
-**Complete 57-resource AWS infrastructure with zero-cost validation**
+**Part of the "$0 Cloud Validation" series - 57-resource infrastructure validated without spending a dollar**
 
 [![GitHub](https://img.shields.io/badge/🔗_View_Repository-181717?style=flat&logo=github)](https://github.com/Sabin-Rana/enterprise-aws-3tier-architecture)
 [![Blog](https://img.shields.io/badge/📖_Read_the_Journey-2962FF?style=flat)](https://sabin-codeops.hashnode.dev/from-10-scare-to-zero-cost-mastery-my-aws-3-tier-architecture-journey)
 
-Enterprise AWS 3-tier infrastructure designed and validated through Terraform, demonstrating professional DevOps practices with strategic cost governance. This project showcases my progression from manual cloud operations to automated infrastructure-as-code excellence.
+Enterprise AWS 3-tier infrastructure designed and validated through Terraform, demonstrating professional DevOps practices with strategic cost governance. This methodology emerged from real experience with cloud costs and provides a practical path for learning cloud infrastructure on a budget.
 
 ### Technical Focus:
 - **Enterprise Architecture**: 57 AWS resources across 6 Terraform modules
 - **Zero-Cost Validation**: Comprehensive testing without deployment expenses  
-- **Safety-First Framework**: 7 automation scripts for cost control & emergency protocols
+- **Safety-First Framework**: 7 automation scripts for cost control and emergency protocols
 - **Multi-AZ High Availability**: Enterprise resilience with full observability
 - **Infrastructure as Code**: Complete CI/CD, monitoring, and security implementation
 
@@ -32,9 +31,10 @@ Enterprise AWS 3-tier infrastructure designed and validated through Terraform, d
 **Applications:** Node.js, React, PostgreSQL, Docker
 **DevOps:** GitHub Actions, CI/CD Pipelines, Security Scanning
 
-## Currently Building: Enterprise AWS Serverless IaC Platform
+---
 
-**Advanced serverless architecture with AWS Config compliance & zero-cost validation**
+## Currently Building: Enterprise AWS Serverless Architecture
+**Part of the "$0 Cloud Validation" series - Advanced serverless patterns validated without costs**
 
 [![GitHub](https://img.shields.io/badge/🔗_View_Repository-181717?style=flat&logo=github)](https://github.com/Sabin-Rana/Enterprise-AWS-Serverless-IaC-Platform)
 [![Status](https://img.shields.io/badge/📊_Status-Ongoing_Development-orange?style=flat)](https://github.com/Sabin-Rana/Enterprise-AWS-Serverless-IaC-Platform)
@@ -44,18 +44,16 @@ Building on my 3-tier architecture expertise, this project demonstrates modern s
 ### Technical Focus:
 - **Serverless Architecture**: Lambda, API Gateway, DynamoDB, Cognito, CloudFront
 - **Infrastructure as Code**: Terraform modules for 35+ AWS resources
-- **Compliance & Security**: AWS Config rules design, drift detection patterns
+- **Compliance and Security**: AWS Config rules design, drift detection patterns
 - **Zero-Cost Validation**: Local testing with SAM CLI, Terraform planning only
 - **Enterprise Patterns**: Multi-tenant design, authentication, monitoring
 
 ---
 
 ## Terraform Infrastructure Automation Journey
-
 Completed a 10-day structured Terraform learning journey, automating end-to-end AWS infrastructure through Infrastructure as Code.  
 This project represents my transition from manual AWS console deployments to fully automated, production-ready architectures.  
-
-The implementation includes reusable Terraform modules, remote state management, CI/CD patterns, and security automation  demonstrating real-world scalability and reliability.  
+The implementation includes reusable Terraform modules, remote state management, CI/CD patterns, and security automation demonstrating real-world scalability and reliability.  
 
 **Repository:** [AWS Infrastructure Automation with Terraform](https://github.com/Sabin-Rana/terraform-learning-journey)
 
