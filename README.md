@@ -1,6 +1,6 @@
 # Hi, I'm Sabin Rana
 
-**AWS Solutions Architect Associate | Cisco Certified Specialist - Enterprise Core | MScIT Applied Security**
+**AWS Certified Solutions Architect Associate | Cisco Certified Specialist - Enterprise Core | MScIT Applied Security**
 
 Building AWS cloud infrastructure with strong networking and security foundation
 
@@ -61,8 +61,7 @@ The implementation includes reusable Terraform modules, remote state management,
 
 ## Foundational AWS Projects (Pre-Terraform)
 
-Before adopting Infrastructure as Code, I deployed multiple production-grade AWS architectures manually through the console.  
-These projects provided a deep understanding of AWS service dependencies, security patterns, and design principles forming the foundation for my Terraform automation journey.
+Before adopting Infrastructure as Code, I deployed multiple AWS architectures manually through the console with comprehensive documentation.
 
 ### Enterprise 3-Tier Architecture
 [View Repository](https://github.com/Sabin-Rana/aws-3tier-architecture)  
