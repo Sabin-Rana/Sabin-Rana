@@ -33,11 +33,11 @@ Enterprise AWS 3-tier infrastructure designed and validated through Terraform, d
 
 ---
 
-## Currently Building: Enterprise AWS Serverless Architecture
-**Part of the "$0 Cloud Validation" series - Advanced serverless patterns validated without costs**
+## Featured Project: Enterprise AWS Serverless Platform
+**Part of the "$0 Cloud Validation" series - Complete 30-resource serverless infrastructure validated without costs**
 
 [![GitHub](https://img.shields.io/badge/🔗_View_Repository-181717?style=flat&logo=github)](https://github.com/Sabin-Rana/Enterprise-AWS-Serverless-IaC-Platform)
-[![Status](https://img.shields.io/badge/📊_Status-Ongoing_Development-orange?style=flat)](https://github.com/Sabin-Rana/Enterprise-AWS-Serverless-IaC-Platform)
+[![Blog](https://img.shields.io/badge/📖_Read_the_Journey-2962FF?style=flat)](https://sabin-codeops.hashnode.dev/building-an-enterprise-serverless-platform-with-terraform-architecture-validation-and-real-world-implementation)
 
 Building on my 3-tier architecture expertise, this project demonstrates modern serverless patterns with enhanced compliance monitoring. Following the same rigorous zero-cost validation methodology to ensure financial responsibility while mastering enterprise serverless architecture.
 
